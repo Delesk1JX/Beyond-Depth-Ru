@@ -1,4 +1,4 @@
-Информация: Перевод квестов, а также части модов из модпака Beyond Depth (11.5.6)
+Информация: Перевод квестов, а также части модов из модпака Beyond Depth (11.5.6+)
 
 Ссылка на сам [модпак](https://www.curseforge.com/minecraft/modpacks/beyond-depth)
 
